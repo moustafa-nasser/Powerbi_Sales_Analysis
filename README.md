@@ -72,14 +72,14 @@ The project was executed through the following stages:
 ## 👥 Contributors
 This project was a collaborative effort.
 
-* **Mostafa Nasser** - Data Analyst & Developer
+* **Mostafa Nasser** - Data Analyst
     * [LinkedIn](https://www.linkedin.com/in/mostafa-nasser-876442322/)
     * [GitHub](https://github.com/moustafa-nasser)
 
-* **Asem Farid** - Collaborator
-    * [GitHub](Colleague1_GitHub_URL)
+* **Asem Farid** - Data Analyst
+    * [GitHub](https://github.com/AsemFared435)
     
-* **Hassen Hamed** - Collaborator
+* **Hassen Hamed** - Data Analyst
     * [GitHub](https://github.com/HassanZoghly)
 
 
